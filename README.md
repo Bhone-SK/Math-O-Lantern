@@ -5,3 +5,5 @@
 With “Math-O-Lantern,” children can have fun and learn at the same time. The next time they are staring at a screen, they will not be just spacing out. They will be lighting their candles and ready to exterminate otherworldly spirits. At the same time, they will be learning what 7 * 3 is!
 
 The game is made using C++; both the engine and the game-play loop are made with C++ and SDL2. SDL2 is a cross-platform development library designed to provide low-level access to various hardware components. It offers a standardized API. It is used to create the window and render PNG images for the game.
+
+More detail on <a href="https://devpost.com/software/math-o-lantern" target="blank">DevPost</a>
